@@ -1,5 +1,5 @@
 import React from "react";
-import backgroundImage from "../assets/hero.jpeg";
+import backgroundImage from "../assets/Hero.jpeg";
 import { motion } from "framer-motion";
 import { slideUpVariants } from "./animation";
 
